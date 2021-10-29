@@ -1,3 +1,0 @@
-lpush list value
-ltrim list 0 99
-lrange list 0 99
